@@ -1,11 +1,9 @@
 package jx.sun.feature.defaultInterface;
 
-import java.util.Map;
-
 /**
  * @Auther: sunjx
  * @Date: 2018/8/13 0013 17:07
- * @Description:
+ * @Description: 接口的默认实现 和 静态实现
  */
 public class InterfaceMain {
     public static void main(String[] args) {

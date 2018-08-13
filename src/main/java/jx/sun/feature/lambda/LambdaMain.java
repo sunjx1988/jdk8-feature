@@ -3,7 +3,7 @@ package jx.sun.feature.lambda;
 /**
  * @Auther: sunjx
  * @Date: 2018/8/13 0013 16:43
- * @Description:
+ * @Description: lambda 表达式
  */
 public class LambdaMain {
 

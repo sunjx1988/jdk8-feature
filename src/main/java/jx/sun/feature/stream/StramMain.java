@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * @Auther: sunjx
  * @Date: 2018/8/13 0013 16:53
- * @Description:
+ * @Description: 集合数据的流式处理
  */
 public class StramMain {
 
